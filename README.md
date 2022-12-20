@@ -1,1 +1,3 @@
-# YandexCupAlgorithms2022
+# Yandex Cup Algorithms 2022
+
+Здесь будут находиться мои решения Алгоритма.Спринт от Яндекса.
